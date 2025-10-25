@@ -7,7 +7,7 @@
 > **Universal, framework-agnostic FHEVM SDK for building confidential dApps with ease**
 
 🎯 **SDK Focus**: Modular, reusable, developer-friendly encryption/decryption utilities
-📹 **[Video Demo](./demo.mp4)** | 🔗 **[Live Example](https://fhe-waste-recycling.vercel.app/)** | 📚 **[Documentation](./docs/)**
+📹 **[Video Demo demo.mp4]** | 🔗 **[Live Example](https://fhe-waste-recycling.vercel.app/)** | 📚 **[Documentation](./docs/)**
 
 🔗 **[GitHub Repository](https://github.com/DixieMetz/fhevm-react-template)** | 🌐 **[Example Application](https://fhe-waste-recycling.vercel.app/)**
 
